@@ -1,0 +1,177 @@
+.medias{
+    border-radius: 25px;
+   border-style: ridge;
+   
+   margin-bottom: 5px;
+}
+
+.medias:hover{
+    transform: scale(1.0);
+    transition: 0.1s all;
+}
+
+
+
+.medias:hover{
+    transition: 0.5s all;
+    box-shadow: 5px 2px 2px 5px rgba(18, 18, 59, 0.5);
+
+}
+
+.hachere{
+    position: relative;
+    bottom: 8px;
+    width: 45px;
+    height: 1px;
+    background-color: #41b883;
+}
+
+.poukoi{
+    display: flex;
+    align-items: center;
+    width: 220px;
+}
+
+.why{
+    font-weight: bold;
+    color: #41b883;
+    font-size: 20px;
+}
+
+.lorem{
+    font-size: 17px;
+}
+
+
+h1,h5{
+    font-size: 40px;
+}
+
+.fast-lorem{
+margin-right: 45px;
+text-align: left;
+margin-bottom: 35px;
+}
+
+
+/* persone-poiny-point-triangle */
+
+
+
+
+.people {
+    
+    border-radius: 10%;
+    margin-left: 10px;
+    margin-top: 60px;
+    display: block;
+       
+}
+
+.point-point {
+   
+    position: relative;
+    right: 128px;
+    bottom: 500px;
+    
+    
+  
+}
+
+.triangle {
+  
+   position: relative;
+   right: 0px;
+   left: 120px;
+   bottom: 140px;
+   
+  
+}
+
+
+
+/* ma section deux */
+
+.h1{
+    font-size: 45px;
+    font-weight: bold;
+}
+
+
+.carte{
+    border-radius: 35px 35px 35px 35px;
+    border-style: ridge;
+    margin-right: 15px;
+}
+
+.cartes{
+    border-radius: 35px 35px 35px 35px;
+    border-style: ridge;
+}
+
+.img1{
+    border-radius: 35px 35px 0px 0px;
+}
+
+.carte:hover{
+    transform: scale(1.0);
+    transition: 0.1s all;
+}
+
+
+
+.carte:hover{
+    transition: 0.5s all;
+    box-shadow: 5px 2px 2px 5px rgba(18, 18, 59, 0.5);
+
+}
+
+.cartes:hover{
+    transform: scale(1.0);
+    transition: 0.1s all;
+}
+
+
+
+.cartes:hover{
+    transition: 0.5s all;
+    box-shadow: 5px 5px 5px 5px rgba(18, 18, 59, 0.5);
+
+}
+
+.marge{
+    margin-top: 25px;
+}
+
+
+.whats{
+    position: relative;
+    top: 100px;
+}
+
+.Testimoni{
+    margin-left: 200px;
+}
+
+.last-section{
+    position: relative;
+    top: 150px;
+}
+
+.text-noir{
+    font-size: 24px;
+}
+
+
+.cercle-orange{
+    position: relative;
+    right: 0px;
+    
+   
+}
+
+
+.div-orange{
+    display: flex;
+    align-items: center;
+}
